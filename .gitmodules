@@ -1,0 +1,15 @@
+[submodule "ejemplo1"]
+	path = ejemplo1
+	url = https://github.com/davis-jrfe/ejemplo1.git
+[submodule "ejemplo2"]
+	path = ejemplo2
+	url = https://github.com/davis-jrfe/ejemplo2.git
+[submodule "ejemplo3"]
+	path = ejemplo3
+	url = https://github.com/davis-jrfe/ejemplo3.git
+[submodule "ejemplo4"]
+	path = ejemplo4
+	url = https://github.com/davis-jrfe/ejemplo4.git
+[submodule "ejercicio2"]
+	path = ejercicio2
+	url = https://github.com/davis-jrfe/ejercicio2.git
